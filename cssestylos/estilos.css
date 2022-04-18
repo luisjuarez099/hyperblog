@@ -3,6 +3,15 @@ body{
     font-family: 'Courier New', Arial, Helvetica, sans-serif, monospace;
     color: blueviolet;
 }
+#cabecera{
+    
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
 #contenedor{
     margin-top: 100px;
   margin-bottom: 100px;
