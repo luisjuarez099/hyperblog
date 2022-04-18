@@ -3,3 +3,11 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: blueviolet;
 }
+#contenedor{
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  border: 2px solid rgb(142, 104, 141);
+  border-right: 10px solid #FFF233;
+}
