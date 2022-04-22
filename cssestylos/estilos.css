@@ -20,3 +20,8 @@ body{
   border: 2px solid rgb(142, 104, 141);
   border-right: 10px solid #FFF233;
 }
+#pie{
+    background-color: rgb(193, 147, 245);
+    color:black;
+    padding:0.5em;
+}
